@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  background-color: #a9c25d;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.btn-login{
+  background-color: chartreuse;
+  color:black;
+  border-radius: 40px;
+  padding: 15px 40px;
+  font-size: x-large;
+  border: 5px solid rgba(34, 30, 30, 0.973);
+}
+.btn-login:hover{
+  border: 5px solid rgba(206, 198, 198, 0.973);
+}
+.btn-product{
+  color:white;
+  border: 1px solid #73a25e;
+  border-radius: 40px;
+  padding: 15px 40px;
+  font-size: x-large;
+  background-color: #73a25e;
+}
+.btn-product:hover{
+  border: 1px solid #416a59 ;
+  background-color: #a9c25d;
+  color: #416a59;
+}
+.content{
+  background-color: #a9c25d;
+}
+.sidebar{
+  background-color: #73a25e;
+}
+.navbar{
+  background-color:#416a59 ;
+  color:white;
+}
+.card-style{
+  background-color: #dae9ae;
+}
+.btn-increase-decrease{
+  padding: 5px 15px;
+  font-size: large;
+  margin-right: 10px;
+  border: none;
+  background-color: #73a25e;
+  color: white;
+}
